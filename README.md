@@ -14,7 +14,7 @@ This repository contains SQL exercises, examples, and assignments from the Turkc
 ## 💻 Requirements
 
 - Any SQL RDBMS (e.g., MySQL, PostgreSQL, SQL Server)
-- SQL client (e.g., DBeaver, pgAdmin, or command line)
+
 
 ## 📂 Structure
 
